@@ -1,16 +1,72 @@
 [
   {
     "id": 1,
-    "nama": "Nasi Goreng",
+    "nama": "Nasi Goreng Spesial",
     "kategori": "Main Course",
     "gambar": "https://www.masakapahariini.com/wp-content/uploads/2018/04/nasi-goreng-spesial.jpg",
     "harga": 20000
   },
   {
     "id": 2,
-    "nama": "Sate Ayam",
+    "nama": "Sate Ayam Madura",
     "kategori": "Main Course",
     "gambar": "https://asset.kompas.com/crops/v6jK9q5Z1DUaE5ybfKRXk8A8xPU=/0x0:1000x667/1200x800/data/photo/2022/05/24/628ccf5c37558.jpg",
     "harga": 25000
+  },
+  {
+    "id": 3,
+    "nama": "Rendang Padang",
+    "kategori": "Main Course",
+    "gambar": "https://cdn.idntimes.com/content-images/post/20220214/rendang-1-8a7ffb30e509e05d7f9d6a635b3e43de.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 4,
+    "nama": "Gado-Gado Betawi",
+    "kategori": "Salad",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/5zvM0ZxP5D9D4CjEoxOtppP6S3M=/0x93:640x453/640x360/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2736136/original/013090000_1555485015-gado.jpg",
+    "harga": 18000
+  },
+  {
+    "id": 5,
+    "nama": "Soto Ayam Lamongan",
+    "kategori": "Soup",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/Zff4cEYATtGAmGZzVJjv0N7fZNo=/0x189:1080x797/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2995782/original/032719500_1574390232-soto-ayam-lamongan-shutterstock.jpg",
+    "harga": 22000
+  },
+  {
+    "id": 6,
+    "nama": "Bakso Malang",
+    "kategori": "Soup",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/sv0ZtVLLhM1Yz4WHDhnzFhZ1-pk=/0x30:1000x595/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2960607/original/040398600_1570504245-shutterstock_1110862255.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 7,
+    "nama": "Pempek Palembang",
+    "kategori": "Snack",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/9B0oAwxkHkEK9xeqZzWQqdxJqZs=/0x83:1000x646/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2953650/original/037617900_1570069885-shutterstock_1423496445.jpg",
+    "harga": 17000
+  },
+  {
+    "id": 8,
+    "nama": "Es Cendol Dawet",
+    "kategori": "Minuman",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/gJdnlKHULdD2-2XzVCMKrmtK6Nc=/0x57:1000x622/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2937885/original/082889000_1568807289-shutterstock_1117756350.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 9,
+    "nama": "Martabak Manis",
+    "kategori": "Dessert",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/2D4HtMtGbyHYCHDCX4sbX3EZ06k=/0x42:1000x604/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2937380/original/034789700_1568791917-shutterstock_1064218392.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 10,
+    "nama": "Rawon Surabaya",
+    "kategori": "Main Course",
+    "gambar": "https://cdn0-production-images-kly.akamaized.net/LQ6eaym9gf1Tfw4ShQF5pqY7Y28=/0x37:1000x604/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2957288/original/055735200_1570195361-shutterstock_1353600482.jpg",
+    "harga": 28000
   }
 ]
