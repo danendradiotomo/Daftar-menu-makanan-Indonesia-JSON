@@ -1,72 +1,352 @@
 [
   {
     "id": 1,
-    "nama": "Nasi Goreng Spesial",
+    "nama": "Nasi Goreng",
     "kategori": "Main Course",
-    "gambar": "https://www.masakapahariini.com/wp-content/uploads/2018/04/nasi-goreng-spesial.jpg",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nasi_goreng.jpg",
     "harga": 20000
   },
   {
     "id": 2,
-    "nama": "Sate Ayam Madura",
+    "nama": "Rendang",
     "kategori": "Main Course",
-    "gambar": "https://asset.kompas.com/crops/v6jK9q5Z1DUaE5ybfKRXk8A8xPU=/0x0:1000x667/1200x800/data/photo/2022/05/24/628ccf5c37558.jpg",
-    "harga": 25000
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rendang_daging_sapi_padang.JPG",
+    "harga": 35000
   },
   {
     "id": 3,
-    "nama": "Rendang Padang",
+    "nama": "Sate Ayam",
     "kategori": "Main Course",
-    "gambar": "https://cdn.idntimes.com/content-images/post/20220214/rendang-1-8a7ffb30e509e05d7f9d6a635b3e43de.jpg",
-    "harga": 30000
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sate_Ponorogo.jpg",
+    "harga": 25000
   },
   {
     "id": 4,
-    "nama": "Gado-Gado Betawi",
+    "nama": "Gado-Gado",
     "kategori": "Salad",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/5zvM0ZxP5D9D4CjEoxOtppP6S3M=/0x93:640x453/640x360/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2736136/original/013090000_1555485015-gado.jpg",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gado_gado_Jakarta.JPG",
     "harga": 18000
   },
   {
     "id": 5,
-    "nama": "Soto Ayam Lamongan",
+    "nama": "Bakso",
     "kategori": "Soup",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/Zff4cEYATtGAmGZzVJjv0N7fZNo=/0x189:1080x797/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2995782/original/032719500_1574390232-soto-ayam-lamongan-shutterstock.jpg",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bakso_malang.jpg",
     "harga": 22000
   },
   {
     "id": 6,
-    "nama": "Bakso Malang",
+    "nama": "Soto Ayam",
     "kategori": "Soup",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/sv0ZtVLLhM1Yz4WHDhnzFhZ1-pk=/0x30:1000x595/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2960607/original/040398600_1570504245-shutterstock_1110862255.jpg",
-    "harga": 24000
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/58/Soto_ayam_surabaya.jpg",
+    "harga": 21000
   },
   {
     "id": 7,
-    "nama": "Pempek Palembang",
-    "kategori": "Snack",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/9B0oAwxkHkEK9xeqZzWQqdxJqZs=/0x83:1000x646/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2953650/original/037617900_1570069885-shutterstock_1423496445.jpg",
-    "harga": 17000
+    "nama": "Nasi Padang",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Nasi_Padang.JPG",
+    "harga": 30000
   },
   {
     "id": 8,
-    "nama": "Es Cendol Dawet",
-    "kategori": "Minuman",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/gJdnlKHULdD2-2XzVCMKrmtK6Nc=/0x57:1000x622/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2937885/original/082889000_1568807289-shutterstock_1117756350.jpg",
-    "harga": 12000
+    "nama": "Pempek",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pempek_Kapal_Selam.jpg",
+    "harga": 17000
   },
   {
     "id": 9,
-    "nama": "Martabak Manis",
-    "kategori": "Dessert",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/2D4HtMtGbyHYCHDCX4sbX3EZ06k=/0x42:1000x604/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2937380/original/034789700_1568791917-shutterstock_1064218392.jpg",
-    "harga": 23000
+    "nama": "Gudeg",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gudeg_yogyakarta.jpg",
+    "harga": 25000
   },
   {
     "id": 10,
-    "nama": "Rawon Surabaya",
-    "kategori": "Main Course",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/LQ6eaym9gf1Tfw4ShQF5pqY7Y28=/0x37:1000x604/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2957288/original/055735200_1570195361-shutterstock_1353600482.jpg",
+    "nama": "Rawon",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rawon_Setan.jpg",
     "harga": 28000
+  },
+  {
+    "id": 11,
+    "nama": "Nasi Uduk",
+    "kategori": "Breakfast",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nasi_uduk_Betawi.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 12,
+    "nama": "Lontong Sayur",
+    "kategori": "Breakfast",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lontong_sayur.jpg",
+    "harga": 14000
+  },
+  {
+    "id": 13,
+    "nama": "Ayam Betutu",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ayam_betutu_Bali.jpg",
+    "harga": 35000
+  },
+  {
+    "id": 14,
+    "nama": "Bebek Goreng",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bebek_Goreng_Surabaya.jpg",
+    "harga": 32000
+  },
+  {
+    "id": 15,
+    "nama": "Ayam Penyet",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ayam_penyet.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 16,
+    "nama": "Tahu Tek",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tahu_tek_surabaya.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 17,
+    "nama": "Kerak Telor",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kerak_Telor_Betawi.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 18,
+    "nama": "Soto Betawi",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Soto_Betawi_Haji_Husein.jpg",
+    "harga": 25000
+  },
+  {
+    "id": 19,
+    "nama": "Sayur Asem",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sayur_asem.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 20,
+    "nama": "Sate Lilit",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sate_Lilit_Bali.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 21,
+    "nama": "Es Cendol",
+    "kategori": "Minuman",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cendol_bandung.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 22,
+    "nama": "Es Teler",
+    "kategori": "Minuman",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Es_teler_jakarta.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 23,
+    "nama": "Martabak Manis",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Martabak_manis_terang_bulan.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 24,
+    "nama": "Klepon",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/86/Klepon_ketan.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 25,
+    "nama": "Lemper",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lemper_ayam.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 26,
+    "nama": "Rujak Cingur",
+    "kategori": "Salad",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rujak_cingur.jpg",
+    "harga": 18000
+  },
+  {
+    "id": 27,
+    "nama": "Sop Buntut",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sop_buntut_jakarta.jpg",
+    "harga": 32000
+  },
+  {
+    "id": 28,
+    "nama": "Nasi Liwet",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nasi_liwet_sunda.jpg",
+    "harga": 25000
+  },
+  {
+    "id": 29,
+    "nama": "Tempe Mendoan",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tempe_mendoan.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 30,
+    "nama": "Tahu Sumedang",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tahu_Sumedang.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 31,
+    "nama": "Bakmi Jawa",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bakmi_jawa_godog.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 32,
+    "nama": "Sate Kambing",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sate_Kambing_Madura.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 33,
+    "nama": "Nasi Kuning",
+    "kategori": "Breakfast",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Nasi_kuning_komplit.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 34,
+    "nama": "Pecel Lele",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pecel_lele_lamongan.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 35,
+    "nama": "Bubur Ayam",
+    "kategori": "Breakfast",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bubur_ayam.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 36,
+    "nama": "Lumpia Semarang",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lumpia_Semarang.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 37,
+    "nama": "Coto Makassar",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Coto_Makassar.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 38,
+    "nama": "Sop Konro",
+    "kategori": "Soup",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sop_Konro_Makassar.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 39,
+    "nama": "Bakwan",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bakwan_sayur.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 40,
+    "nama": "Serabi",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Serabi_Notosuman_Solo.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 41,
+    "nama": "Onde-onde",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Onde-onde_ketan.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 42,
+    "nama": "Getuk Lindri",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Getuk_lindri_tradisional.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 43,
+    "nama": "Nasi Campur Bali",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nasi_Campur_Bali.jpg",
+    "harga": 28000
+  },
+  {
+    "id": 44,
+    "nama": "Sate Padang",
+    "kategori": "Main Course",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sate_Padang_Pariaman.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 45,
+    "nama": "Lontong Balap",
+    "kategori": "Snack",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lontong_balap_surabaya.jpg",
+    "harga": 14000
+  },
+  {
+    "id": 46,
+    "nama": "Kue Lumpur",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kue_Lumpur_Surabaya.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 47,
+    "nama": "Es Dawet",
+    "kategori": "Minuman",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Es_dawet_ireng_banjarnegara.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 48,
+    "nama": "Wedang Jahe",
+    "kategori": "Minuman",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wedang_jahe.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 49,
+    "nama": "Kolak Pisang",
+    "kategori": "Dessert",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kolak_pisang.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 50,
+    "nama": "Es Campur",
+    "kategori": "Minuman",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Es_campur_jakarta.jpg",
+    "harga": 13000
   }
 ]
