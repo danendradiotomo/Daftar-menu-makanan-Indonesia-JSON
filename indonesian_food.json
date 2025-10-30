@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng",
+    "kategori": "Main Course",
+    "gambar": "https://www.masakapahariini.com/wp-content/uploads/2018/04/nasi-goreng-spesial.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 2,
+    "nama": "Sate Ayam",
+    "kategori": "Main Course",
+    "gambar": "https://asset.kompas.com/crops/v6jK9q5Z1DUaE5ybfKRXk8A8xPU=/0x0:1000x667/1200x800/data/photo/2022/05/24/628ccf5c37558.jpg",
+    "harga": 25000
+  }
+]
