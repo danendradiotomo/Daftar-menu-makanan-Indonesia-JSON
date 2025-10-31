@@ -348,5 +348,355 @@
     "deskripsi": "Campuran buah, agar, dan sirup manis disajikan dengan es serut segar.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Es_campur_jakarta.jpg",
     "harga": 13000
+  },
+    {
+    "id": 51,
+    "nama": "Asinan Bogor",
+    "deskripsi": "Campuran buah dan sayur segar dengan kuah asam manis pedas khas Bogor.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Asinan_Bogor.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 52,
+    "nama": "Soto Kudus",
+    "deskripsi": "Soto khas Kudus dengan suwiran ayam, taoge, dan kuah bening gurih.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soto_Kudus.jpg",
+    "harga": 22000
+  },
+  {
+    "id": 53,
+    "nama": "Bubur Sumsum",
+    "deskripsi": "Bubur lembut dari tepung beras disajikan dengan kuah gula merah cair.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bubur_Sumsum.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 54,
+    "nama": "Sate Maranggi",
+    "deskripsi": "Sate sapi khas Purwakarta dengan bumbu manis gurih dan sambal oncom.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sate_Maranggi.jpg",
+    "harga": 28000
+  },
+  {
+    "id": 55,
+    "nama": "Nasi Pecel",
+    "deskripsi": "Nasi dengan sayuran rebus disiram sambal kacang khas Jawa Timur.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nasi_pecel_madiun.jpg",
+    "harga": 18000
+  },
+  {
+    "id": 56,
+    "nama": "Bakpia Pathok",
+    "deskripsi": "Kue khas Yogyakarta berisi kacang hijau manis dalam kulit tipis lembut.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bakpia_pathok_yogyakarta.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 57,
+    "nama": "Gulai Kambing",
+    "deskripsi": "Daging kambing dimasak dalam kuah santan kental dengan rempah Melayu.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gulai_Kambing.jpg",
+    "harga": 33000
+  },
+  {
+    "id": 58,
+    "nama": "Bajigur",
+    "deskripsi": "Minuman hangat khas Sunda dari santan, gula aren, dan jahe.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bajigur.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 59,
+    "nama": "Bandrek",
+    "deskripsi": "Minuman hangat dari jahe, gula merah, dan rempah untuk menghangatkan tubuh.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandrek_minuman_tradisional.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 60,
+    "nama": "Lontong Medan",
+    "deskripsi": "Lontong dengan kuah santan, sayur, tauco, dan ikan teri medan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lontong_Medan.jpg",
+    "harga": 17000
+  },
+  {
+    "id": 61,
+    "nama": "Nasi Goreng Mawut",
+    "deskripsi": "Perpaduan nasi goreng dan mi goreng dengan bumbu pedas khas Jawa.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/44/Nasi_goreng_mawut.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 62,
+    "nama": "Es Doger",
+    "deskripsi": "Minuman es campur khas Bandung dari tape, ketan hitam, dan kelapa muda.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Es_Doger_Bandung.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 63,
+    "nama": "Bakwan Malang",
+    "deskripsi": "Pangsit, tahu isi, dan bakso goreng dalam kuah gurih khas Malang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bakwan_Malang.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 64,
+    "nama": "Sate Klathak",
+    "deskripsi": "Sate kambing khas Bantul yang dibakar dengan tusuk jeruji sepeda.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sate_Klathak_Bantul.jpg",
+    "harga": 32000
+  },
+  {
+    "id": 65,
+    "nama": "Tahu Campur",
+    "deskripsi": "Tahu goreng, mi, daging, dan kuah petis khas Lamongan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tahu_campur_lamongan.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 66,
+    "nama": "Lontong Kupang",
+    "deskripsi": "Lontong disajikan dengan kerang kecil (kupang) dan sambal petis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lontong_Kupang_Sidoarjo.jpg",
+    "harga": 19000
+  },
+  {
+    "id": 67,
+    "nama": "Sate Madura",
+    "deskripsi": "Sate ayam khas Madura dengan bumbu kacang dan lontong.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sate_Madura.jpg",
+    "harga": 25000
+  },
+  {
+    "id": 68,
+    "nama": "Nasi Timbel",
+    "deskripsi": "Nasi dibungkus daun pisang disajikan dengan ayam goreng dan sambal.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nasi_Timbel.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 69,
+    "nama": "Sayur Lodeh",
+    "deskripsi": "Sayur labu, kacang panjang, dan tempe dalam kuah santan gurih.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sayur_lodeh.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 70,
+    "nama": "Karedok",
+    "deskripsi": "Salad sayur mentah khas Sunda dengan saus kacang pedas manis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/22/Karedok_sunda.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 71,
+    "nama": "Lemper Abon",
+    "deskripsi": "Ketan isi abon sapi, dibungkus daun pisang dan dikukus harum.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lemper_abon.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 72,
+    "nama": "Kue Putu",
+    "deskripsi": "Kue tradisional kukus isi gula merah dan parutan kelapa.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kue_Putu_Bambu.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 73,
+    "nama": "Kue Cubit",
+    "deskripsi": "Kue mini manis yang dimasak setengah matang dengan topping cokelat atau keju.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kue_cubit.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 74,
+    "nama": "Tahu Gejrot",
+    "deskripsi": "Tahu goreng potong kecil disiram kuah asam pedas manis khas Cirebon.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tahu_Gejrot_Cirebon.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 75,
+    "nama": "Opor Ayam",
+    "deskripsi": "Ayam dimasak dalam kuah santan kuning gurih, biasa disajikan saat lebaran.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Opor_Ayam.jpg",
+    "harga": 28000
+  },
+  {
+    "id": 76,
+    "nama": "Nasi Kucing",
+    "deskripsi": "Nasi porsi kecil dengan sambal teri dan tempe khas angkringan Jogja.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Nasi_kucing_angkringan.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 77,
+    "nama": "Tahu Lontong",
+    "deskripsi": "Lontong, tahu goreng, dan bumbu kacang gurih khas Jawa Timur.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tahu_Lontong_Surabaya.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 78,
+    "nama": "Mie Aceh",
+    "deskripsi": "Mi tebal dimasak dengan bumbu kari pedas khas Aceh, bisa goreng atau kuah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mie_Aceh.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 79,
+    "nama": "Ayam Woku",
+    "deskripsi": "Ayam dimasak dengan rempah daun woku khas Manado.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ayam_Woku_Manado.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 80,
+    "nama": "Pisang Goreng",
+    "deskripsi": "Pisang matang dilapisi adonan tepung lalu digoreng renyah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pisang_goreng.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 81,
+    "nama": "Wedang Ronde",
+    "deskripsi": "Minuman jahe hangat dengan bola ketan isi kacang dan kolang-kaling.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Wedang_Ronde.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 82,
+    "nama": "Tempe Orek",
+    "deskripsi": "Tempe goreng kecil dimasak dengan bumbu kecap manis dan cabai.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tempe_orek.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 83,
+    "nama": "Sayur Bayam Bening",
+    "deskripsi": "Sayur bayam sederhana dengan kuah bening dan jagung manis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sayur_Bayam.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 84,
+    "nama": "Empal Gentong",
+    "deskripsi": "Daging sapi dimasak dalam kuah santan kuning khas Cirebon.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Empal_Gentong_Cirebon.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 85,
+    "nama": "Sop Iga",
+    "deskripsi": "Sup iga sapi dengan kuah bening gurih dan taburan seledri.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sop_Iga_Sapi.jpg",
+    "harga": 32000
+  },
+  {
+    "id": 86,
+    "nama": "Bika Ambon",
+    "deskripsi": "Kue khas Medan dengan tekstur bersarang dan aroma pandan wangi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bika_Ambon_Medan.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 87,
+    "nama": "Kue Lapis Legit",
+    "deskripsi": "Kue berlapis banyak dengan rasa manis dan tekstur lembut.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lapis_Legit.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 88,
+    "nama": "Gulai Nangka",
+    "deskripsi": "Nangka muda dimasak dalam kuah santan pedas khas Minang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gulai_Nangka.jpg",
+    "harga": 18000
+  },
+  {
+    "id": 89,
+    "nama": "Nasi Goreng Kampung",
+    "deskripsi": "Nasi goreng tradisional dengan terasi, cabai, dan telur mata sapi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Nasi_goreng_kampung.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 90,
+    "nama": "Bubur Ketan Hitam",
+    "deskripsi": "Ketan hitam dimasak lembut disajikan dengan santan manis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bubur_ketan_hitam.jpg",
+    "harga": 10000
+  },
+  {
+    "id": 91,
+    "nama": "Sambal Goreng Kentang",
+    "deskripsi": "Kentang goreng kering dimasak dengan sambal dan petai.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sambal_goreng_kentang.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 92,
+    "nama": "Ayam Rica-Rica",
+    "deskripsi": "Ayam dimasak dengan bumbu cabai merah khas Manado.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ayam_Rica_Rica.jpg",
+    "harga": 29000
+  },
+  {
+    "id": 93,
+    "nama": "Sate Taichan",
+    "deskripsi": "Sate ayam tanpa bumbu kacang, disajikan dengan sambal pedas dan jeruk nipis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sate_Taichan.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 94,
+    "nama": "Nasi Lengko",
+    "deskripsi": "Nasi dengan tahu, tempe, taoge, dan sambal kacang khas Cirebon.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nasi_Lengko_Cirebon.jpg",
+    "harga": 16000
+  },
+  {
+    "id": 95,
+    "nama": "Kue Dadar Gulung",
+    "deskripsi": "Kue dadar hijau isi kelapa parut manis dan gula merah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dadar_gulung.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 96,
+    "nama": "Bakwan Jagung",
+    "deskripsi": "Gorengan dari jagung manis dan tepung, renyah gurih.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bakwan_jagung.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 97,
+    "nama": "Perkedel Kentang",
+    "deskripsi": "Kentang tumbuk digoreng dengan bumbu bawang dan merica.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/31/Perkedel_Kentang.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 98,
+    "nama": "Es Goyobod",
+    "deskripsi": "Es tradisional dari Bandung berisi agar, tape, dan kelapa muda.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Es_Goyobod_Bandung.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 99,
+    "nama": "Kue Apem",
+    "deskripsi": "Kue tradisional kukus dari tepung beras dengan rasa manis lembut.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kue_Apem_Jawa.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 100,
+    "nama": "Nasi Goreng Seafood",
+    "deskripsi": "Nasi goreng dengan udang, cumi, dan ikan khas pesisir.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nasi_goreng_seafood.jpg",
+    "harga": 28000
   }
 ]
