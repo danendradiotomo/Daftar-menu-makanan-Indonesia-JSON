@@ -698,5 +698,355 @@
     "deskripsi": "Nasi goreng dengan udang, cumi, dan ikan khas pesisir.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nasi_goreng_seafood.jpg",
     "harga": 28000
+  },
+  {
+    "id": 101,
+    "nama": "Pempek Palembang",
+    "deskripsi": "Olahan ikan tenggiri dan sagu khas Palembang disajikan dengan cuko pedas asam manis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pempek_Palembang.jpg",
+    "harga": 25000
+  },
+  {
+    "id": 102,
+    "nama": "Tekwan",
+    "deskripsi": "Sup ikan khas Palembang dengan jamur kuping dan soun.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tekwan_Palembang.jpg",
+    "harga": 22000
+  },
+  {
+    "id": 103,
+    "nama": "Laksan",
+    "deskripsi": "Irisan pempek lenjer disiram kuah santan kental khas Palembang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Laksan_Palembang.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 104,
+    "nama": "Pindang Patin",
+    "deskripsi": "Ikan patin dimasak dengan kuah asam pedas segar khas Sumatera Selatan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pindang_Patin_Palembang.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 105,
+    "nama": "Mie Bangka",
+    "deskripsi": "Mie kuning khas Bangka Belitung dengan topping daging cincang dan kuah kaldu.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mie_Bangka.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 106,
+    "nama": "Lempah Kuning",
+    "deskripsi": "Masakan ikan dengan bumbu kunyit pedas segar khas Bangka Belitung.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lempah_Kuning_Bangka.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 107,
+    "nama": "Soto Banjar",
+    "deskripsi": "Soto ayam khas Banjarmasin dengan bumbu rempah dan ketupat.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/18/Soto_Banjar.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 108,
+    "nama": "Ketupat Kandangan",
+    "deskripsi": "Ketupat dengan ikan gabus bakar dan kuah santan khas Kalimantan Selatan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ketupat_Kandangan.jpg",
+    "harga": 26000
+  },
+  {
+    "id": 109,
+    "nama": "Ayam Cincane",
+    "deskripsi": "Ayam bakar merah manis khas Samarinda dengan bumbu rempah kuat.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ayam_Cincane_Samarinda.jpg",
+    "harga": 29000
+  },
+  {
+    "id": 110,
+    "nama": "Soto Banjar Kuah Susu",
+    "deskripsi": "Variasi Soto Banjar dengan tambahan santan encer, rasa gurih lembut.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Soto_Banjar_Susu.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 111,
+    "nama": "Nasi Balap Puyung",
+    "deskripsi": "Nasi khas Lombok dengan ayam suwir pedas, tempe, dan serundeng.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nasi_Balap_Puyung.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 112,
+    "nama": "Ayam Taliwang",
+    "deskripsi": "Ayam bakar pedas khas Lombok dengan sambal merah menyala.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ayam_Taliwang.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 113,
+    "nama": "Plecing Kangkung",
+    "deskripsi": "Kangkung rebus disiram sambal tomat pedas segar khas Lombok.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plecing_Kangkung.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 114,
+    "nama": "Sate Lilit Bali",
+    "deskripsi": "Sate ikan cincang berbumbu rempah lilit pada serai khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sate_Lilit_Bali.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 115,
+    "nama": "Lawar Bali",
+    "deskripsi": "Campuran sayuran, kelapa parut, dan daging cincang berbumbu khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lawar_Bali.jpg",
+    "harga": 21000
+  },
+  {
+    "id": 116,
+    "nama": "Bebek Betutu",
+    "deskripsi": "Bebek utuh dibumbui rempah dan dimasak lama hingga empuk.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bebek_Betutu_Bali.jpg",
+    "harga": 38000
+  },
+  {
+    "id": 117,
+    "nama": "Ayam Betutu",
+    "deskripsi": "Ayam berbumbu khas Bali dimasak hingga meresap dan lembut.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ayam_Betutu.jpg",
+    "harga": 33000
+  },
+  {
+    "id": 118,
+    "nama": "Sate Plecing",
+    "deskripsi": "Sate daging sapi dengan sambal plecing khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sate_Plecing_Bali.jpg",
+    "harga": 26000
+  },
+  {
+    "id": 119,
+    "nama": "Jukut Urab",
+    "deskripsi": "Sayuran rebus dengan kelapa parut berbumbu khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jukut_Urab_Bali.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 120,
+    "nama": "Babi Guling",
+    "deskripsi": "Hidangan babi panggang berbumbu lengkap khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Babi_Guling_Bali.jpg",
+    "harga": 45000
+  },
+  {
+    "id": 121,
+    "nama": "Sate Sapi Bali",
+    "deskripsi": "Sate sapi dengan bumbu manis gurih khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sate_Sapi_Bali.jpg",
+    "harga": 26000
+  },
+  {
+    "id": 122,
+    "nama": "Rujak Kuah Pindang",
+    "deskripsi": "Rujak buah segar dengan kuah ikan pedas khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rujak_Kuah_Pindang_Bali.jpg",
+    "harga": 12000
+  },
+  {
+    "id": 123,
+    "nama": "Nasi Jinggo",
+    "deskripsi": "Nasi porsi kecil dengan lauk ayam suwir dan sambal khas Bali.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nasi_Jinggo_Bali.jpg",
+    "harga": 8000
+  },
+  {
+    "id": 124,
+    "nama": "Soto Ayam Lamongan",
+    "deskripsi": "Soto ayam dengan koya gurih dan kuah kuning khas Lamongan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Soto_Ayam_Lamongan.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 125,
+    "nama": "Rawon Surabaya",
+    "deskripsi": "Sup daging dengan kuah hitam dari kluwek khas Jawa Timur.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Rawon_Surabaya.jpg",
+    "harga": 28000
+  },
+  {
+    "id": 126,
+    "nama": "Tahu Tek",
+    "deskripsi": "Tahu goreng dan lontong disiram saus kacang dan petis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tahu_Tek_Surabaya.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 127,
+    "nama": "Rujak Cingur",
+    "deskripsi": "Campuran sayur, tahu, tempe, dan mulut sapi dengan sambal petis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rujak_Cingur_Surabaya.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 128,
+    "nama": "Lontong Balap",
+    "deskripsi": "Lontong dengan taoge, tahu, dan lentho khas Surabaya.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lontong_Balap_Surabaya.jpg",
+    "harga": 17000
+  },
+  {
+    "id": 129,
+    "nama": "Sego Tempong",
+    "deskripsi": "Nasi pedas dengan lauk ayam, sambal, dan lalapan khas Banyuwangi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nasi_Tempong_Banyuwangi.jpg",
+    "harga": 23000
+  },
+  {
+    "id": 130,
+    "nama": "Pecel Lele",
+    "deskripsi": "Lele goreng disajikan dengan sambal tomat dan lalapan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pecel_Lele.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 131,
+    "nama": "Nasi Uduk Betawi",
+    "deskripsi": "Nasi gurih dari santan disajikan dengan ayam goreng dan sambal kacang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nasi_Uduk_Betawi.jpg",
+    "harga": 22000
+  },
+  {
+    "id": 132,
+    "nama": "Kerak Telor",
+    "deskripsi": "Telur bebek, ketan, dan serundeng dibakar khas Betawi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kerak_Telor.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 133,
+    "nama": "Gado-Gado Betawi",
+    "deskripsi": "Sayur rebus dengan saus kacang dan kerupuk khas Jakarta.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gado_gado_betawi.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 134,
+    "nama": "Soto Betawi",
+    "deskripsi": "Soto daging dengan kuah santan gurih khas Jakarta.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/23/Soto_Betawi.jpg",
+    "harga": 28000
+  },
+  {
+    "id": 135,
+    "nama": "Nasi Ulam",
+    "deskripsi": "Nasi dengan serundeng, kacang tanah, dan ikan asin khas Betawi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nasi_Ulam_Betawi.jpg",
+    "harga": 18000
+  },
+  {
+    "id": 136,
+    "nama": "Soto Tangkar",
+    "deskripsi": "Soto iga sapi dengan kuah santan dan rempah khas Betawi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Soto_Tangkar_Betawi.jpg",
+    "harga": 29000
+  },
+  {
+    "id": 137,
+    "nama": "Ketoprak",
+    "deskripsi": "Tahu, bihun, lontong, dan bumbu kacang gurih.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ketoprak_Jakarta.jpg",
+    "harga": 17000
+  },
+  {
+    "id": 138,
+    "nama": "Bubur Ayam Jakarta",
+    "deskripsi": "Bubur ayam dengan cakwe, kedelai, dan kecap asin.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bubur_Ayam_Jakarta.jpg",
+    "harga": 16000
+  },
+  {
+    "id": 139,
+    "nama": "Lontong Sayur Betawi",
+    "deskripsi": "Lontong dengan sayur labu siam dan sambal goreng tahu.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lontong_Sayur_Betawi.jpg",
+    "harga": 20000
+  },
+  {
+    "id": 140,
+    "nama": "Kue Pancong",
+    "deskripsi": "Kue kelapa setengah matang khas Betawi dengan rasa gurih manis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kue_Pancong_Betawi.jpg",
+    "harga": 9000
+  },
+  {
+    "id": 141,
+    "nama": "Soto Padang",
+    "deskripsi": "Soto daging sapi kering renyah khas Padang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Soto_Padang.jpg",
+    "harga": 26000
+  },
+  {
+    "id": 142,
+    "nama": "Rendang Padang",
+    "deskripsi": "Daging sapi dimasak lama hingga kering berbumbu pekat khas Minang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rendang_Padang.jpg",
+    "harga": 35000
+  },
+  {
+    "id": 143,
+    "nama": "Dendeng Balado",
+    "deskripsi": "Irisan daging tipis kering dengan sambal balado pedas.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dendeng_Balado.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 144,
+    "nama": "Ayam Pop",
+    "deskripsi": "Ayam goreng putih khas Padang dengan sambal merah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ayam_Pop_Padang.jpg",
+    "harga": 27000
+  },
+  {
+    "id": 145,
+    "nama": "Gulai Tunjang",
+    "deskripsi": "Gulai kikil sapi dengan kuah santan kental khas Minang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gulai_Tunjang_Padang.jpg",
+    "harga": 30000
+  },
+  {
+    "id": 146,
+    "nama": "Soto Padang Bening",
+    "deskripsi": "Soto Padang versi kuah bening segar dengan perkedel kecil.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Soto_Padang_Bening.jpg",
+    "harga": 24000
+  },
+  {
+    "id": 147,
+    "nama": "Gulai Itiak Lado Mudo",
+    "deskripsi": "Bebek dimasak dengan cabai hijau khas Bukittinggi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gulai_Itiak_Lado_Mudo.jpg",
+    "harga": 34000
+  },
+  {
+    "id": 148,
+    "nama": "Sate Padang",
+    "deskripsi": "Sate daging sapi dengan kuah kental kuning khas Minang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sate_Padang.jpg",
+    "harga": 26000
+  },
+  {
+    "id": 149,
+    "nama": "Lamang Tapai",
+    "deskripsi": "Ketan bakar disajikan dengan tapai hitam manis khas Sumatera Barat.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lamang_Tapai_Padang.jpg",
+    "harga": 15000
+  },
+  {
+    "id": 150,
+    "nama": "Es Tebak Padang",
+    "deskripsi": "Minuman es campur berisi tebak, cincau, dan sirup manis khas Minang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Es_Tebak_Padang.jpg",
+    "harga": 12000
   }
 ]
