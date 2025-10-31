@@ -2,350 +2,350 @@
   {
     "id": 1,
     "nama": "Nasi Goreng",
-    "kategori": "Main Course",
+    "deskripsi": "Nasi yang digoreng dengan bumbu khas Indonesia, sering disajikan dengan telur dan kerupuk.",
     "gambar": "https://tse1.mm.bing.net/th/id/OIP.96HBHEgIZpnfGlVrxZBkEwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
     "harga": 20000
   },
   {
     "id": 2,
     "nama": "Rendang",
-    "kategori": "Main Course",
+    "deskripsi": "Masakan daging sapi dimasak lama dengan santan dan rempah khas Minangkabau.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rendang_daging_sapi_padang.JPG",
     "harga": 35000
   },
   {
     "id": 3,
     "nama": "Sate Ayam",
-    "kategori": "Main Course",
+    "deskripsi": "Potongan daging ayam yang ditusuk dan dibakar, disajikan dengan saus kacang.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sate_Ponorogo.jpg",
     "harga": 25000
   },
   {
     "id": 4,
     "nama": "Gado-Gado",
-    "kategori": "Salad",
+    "deskripsi": "Sayuran rebus dengan saus kacang, disajikan dengan lontong dan telur rebus.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gado_gado_Jakarta.JPG",
     "harga": 18000
   },
   {
     "id": 5,
     "nama": "Bakso",
-    "kategori": "Soup",
+    "deskripsi": "Bola daging sapi yang disajikan dalam kuah gurih dengan mi dan tahu.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bakso_malang.jpg",
     "harga": 22000
   },
   {
     "id": 6,
     "nama": "Soto Ayam",
-    "kategori": "Soup",
+    "deskripsi": "Sup ayam berkuah kuning dengan bihun, telur, dan koya gurih.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/58/Soto_ayam_surabaya.jpg",
     "harga": 21000
   },
   {
     "id": 7,
     "nama": "Nasi Padang",
-    "kategori": "Main Course",
+    "deskripsi": "Nasi dengan aneka lauk khas Minang seperti rendang, ayam pop, dan sambal ijo.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Nasi_Padang.JPG",
     "harga": 30000
   },
   {
     "id": 8,
     "nama": "Pempek",
-    "kategori": "Snack",
+    "deskripsi": "Makanan khas Palembang dari ikan dan sagu, disajikan dengan cuka asam pedas.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pempek_Kapal_Selam.jpg",
     "harga": 17000
   },
   {
     "id": 9,
     "nama": "Gudeg",
-    "kategori": "Main Course",
+    "deskripsi": "Masakan nangka muda khas Yogyakarta dimasak dengan santan dan gula merah.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gudeg_yogyakarta.jpg",
     "harga": 25000
   },
   {
     "id": 10,
     "nama": "Rawon",
-    "kategori": "Soup",
+    "deskripsi": "Sup daging sapi dengan kuah hitam dari kluwek khas Jawa Timur.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rawon_Setan.jpg",
     "harga": 28000
   },
   {
     "id": 11,
     "nama": "Nasi Uduk",
-    "kategori": "Breakfast",
+    "deskripsi": "Nasi gurih dimasak dengan santan, disajikan dengan ayam goreng dan sambal.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nasi_uduk_Betawi.jpg",
     "harga": 15000
   },
   {
     "id": 12,
     "nama": "Lontong Sayur",
-    "kategori": "Breakfast",
+    "deskripsi": "Lontong dengan kuah santan sayur labu siam dan tahu tempe.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lontong_sayur.jpg",
     "harga": 14000
   },
   {
     "id": 13,
     "nama": "Ayam Betutu",
-    "kategori": "Main Course",
+    "deskripsi": "Ayam utuh dimasak dengan bumbu Bali pedas dan rempah yang kuat.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ayam_betutu_Bali.jpg",
     "harga": 35000
   },
   {
     "id": 14,
     "nama": "Bebek Goreng",
-    "kategori": "Main Course",
+    "deskripsi": "Bebek goreng garing dengan sambal terasi dan lalapan segar.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bebek_Goreng_Surabaya.jpg",
     "harga": 32000
   },
   {
     "id": 15,
     "nama": "Ayam Penyet",
-    "kategori": "Main Course",
+    "deskripsi": "Ayam goreng yang dipenyet bersama sambal pedas dan lalapan.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ayam_penyet.jpg",
     "harga": 23000
   },
   {
     "id": 16,
     "nama": "Tahu Tek",
-    "kategori": "Snack",
+    "deskripsi": "Tahu goreng dan lontong disiram bumbu kacang petis khas Surabaya.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tahu_tek_surabaya.jpg",
     "harga": 15000
   },
   {
     "id": 17,
     "nama": "Kerak Telor",
-    "kategori": "Snack",
+    "deskripsi": "Makanan khas Betawi dari telur bebek dan beras ketan, gurih dan renyah.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kerak_Telor_Betawi.jpg",
     "harga": 12000
   },
   {
     "id": 18,
     "nama": "Soto Betawi",
-    "kategori": "Soup",
+    "deskripsi": "Soto khas Jakarta dengan kuah santan gurih dan daging sapi.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Soto_Betawi_Haji_Husein.jpg",
     "harga": 25000
   },
   {
     "id": 19,
     "nama": "Sayur Asem",
-    "kategori": "Soup",
+    "deskripsi": "Sayur segar berkuah asam dari tamarind khas Jawa.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sayur_asem.jpg",
     "harga": 15000
   },
   {
     "id": 20,
     "nama": "Sate Lilit",
-    "kategori": "Main Course",
+    "deskripsi": "Sate khas Bali dari daging cincang dan parutan kelapa dibakar di tusuk serai.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sate_Lilit_Bali.jpg",
     "harga": 27000
   },
   {
     "id": 21,
     "nama": "Es Cendol",
-    "kategori": "Minuman",
+    "deskripsi": "Minuman manis dari tepung beras hijau, santan, dan gula merah cair.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cendol_bandung.jpg",
     "harga": 12000
   },
   {
     "id": 22,
     "nama": "Es Teler",
-    "kategori": "Minuman",
+    "deskripsi": "Campuran alpukat, kelapa muda, dan nangka dalam susu manis dan es.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Es_teler_jakarta.jpg",
     "harga": 15000
   },
   {
     "id": 23,
     "nama": "Martabak Manis",
-    "kategori": "Dessert",
+    "deskripsi": "Pancake tebal isi cokelat, kacang, keju, atau meses yang lembut dan legit.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Martabak_manis_terang_bulan.jpg",
     "harga": 20000
   },
   {
     "id": 24,
     "nama": "Klepon",
-    "kategori": "Dessert",
+    "deskripsi": "Kue bola ketan isi gula merah cair dan taburan kelapa parut.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/86/Klepon_ketan.jpg",
     "harga": 10000
   },
   {
     "id": 25,
     "nama": "Lemper",
-    "kategori": "Snack",
+    "deskripsi": "Ketan isi ayam suwir dibungkus daun pisang, gurih dan lembut.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lemper_ayam.jpg",
     "harga": 10000
   },
   {
     "id": 26,
     "nama": "Rujak Cingur",
-    "kategori": "Salad",
+    "deskripsi": "Campuran sayur dan buah dengan bumbu petis khas Surabaya.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rujak_cingur.jpg",
     "harga": 18000
   },
   {
     "id": 27,
     "nama": "Sop Buntut",
-    "kategori": "Soup",
+    "deskripsi": "Sup buntut sapi dengan kuah bening gurih dan sayuran.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sop_buntut_jakarta.jpg",
     "harga": 32000
   },
   {
     "id": 28,
     "nama": "Nasi Liwet",
-    "kategori": "Main Course",
+    "deskripsi": "Nasi gurih khas Sunda disajikan dengan lauk dan sambal terasi.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nasi_liwet_sunda.jpg",
     "harga": 25000
   },
   {
     "id": 29,
     "nama": "Tempe Mendoan",
-    "kategori": "Snack",
+    "deskripsi": "Tempe tipis berbalut tepung yang digoreng setengah matang.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tempe_mendoan.jpg",
     "harga": 10000
   },
   {
     "id": 30,
     "nama": "Tahu Sumedang",
-    "kategori": "Snack",
+    "deskripsi": "Tahu goreng khas Sumedang dengan tekstur renyah di luar lembut di dalam.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tahu_Sumedang.jpg",
     "harga": 8000
-  },
-  {
+  }
+   {
     "id": 31,
     "nama": "Bakmi Jawa",
-    "kategori": "Main Course",
+    "deskripsi": "Mi kuning dimasak dengan ayam, telur, dan bumbu khas Jawa, bisa goreng atau godog.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bakmi_jawa_godog.jpg",
     "harga": 23000
   },
   {
     "id": 32,
     "nama": "Sate Kambing",
-    "kategori": "Main Course",
+    "deskripsi": "Daging kambing dibakar dengan bumbu kecap manis dan bawang goreng.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sate_Kambing_Madura.jpg",
     "harga": 30000
   },
   {
     "id": 33,
     "nama": "Nasi Kuning",
-    "kategori": "Breakfast",
+    "deskripsi": "Nasi berwarna kuning dari kunyit, disajikan dengan ayam goreng dan sambal.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Nasi_kuning_komplit.jpg",
     "harga": 15000
   },
   {
     "id": 34,
     "nama": "Pecel Lele",
-    "kategori": "Main Course",
+    "deskripsi": "Lele goreng dengan sambal tomat pedas dan lalapan segar.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pecel_lele_lamongan.jpg",
     "harga": 20000
   },
   {
     "id": 35,
     "nama": "Bubur Ayam",
-    "kategori": "Breakfast",
+    "deskripsi": "Bubur nasi gurih dengan suwiran ayam, cakwe, dan kerupuk.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bubur_ayam.jpg",
     "harga": 12000
   },
   {
     "id": 36,
     "nama": "Lumpia Semarang",
-    "kategori": "Snack",
+    "deskripsi": "Kulit tipis berisi rebung, telur, dan ayam khas Kota Semarang.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lumpia_Semarang.jpg",
     "harga": 15000
   },
   {
     "id": 37,
     "nama": "Coto Makassar",
-    "kategori": "Soup",
+    "deskripsi": "Sup daging sapi khas Makassar dengan bumbu kacang dan rempah pekat.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Coto_Makassar.jpg",
     "harga": 27000
   },
   {
     "id": 38,
     "nama": "Sop Konro",
-    "kategori": "Soup",
+    "deskripsi": "Sup iga sapi khas Bugis dengan kuah hitam dari rempah dan kluwek.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sop_Konro_Makassar.jpg",
     "harga": 30000
   },
   {
     "id": 39,
     "nama": "Bakwan",
-    "kategori": "Snack",
+    "deskripsi": "Gorengan sayur renyah dari wortel, kubis, dan tepung terigu.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bakwan_sayur.jpg",
     "harga": 8000
   },
   {
     "id": 40,
     "nama": "Serabi",
-    "kategori": "Dessert",
+    "deskripsi": "Pancake tradisional dari tepung beras dan santan dengan rasa manis atau gurih.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Serabi_Notosuman_Solo.jpg",
     "harga": 10000
   },
   {
     "id": 41,
     "nama": "Onde-onde",
-    "kategori": "Dessert",
+    "deskripsi": "Kue bulat dari tepung ketan dengan isian kacang hijau dan taburan wijen.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Onde-onde_ketan.jpg",
     "harga": 9000
   },
   {
     "id": 42,
     "nama": "Getuk Lindri",
-    "kategori": "Dessert",
+    "deskripsi": "Penganan tradisional dari singkong kukus yang ditumbuk dan diberi warna cerah.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Getuk_lindri_tradisional.jpg",
     "harga": 9000
   },
   {
     "id": 43,
     "nama": "Nasi Campur Bali",
-    "kategori": "Main Course",
+    "deskripsi": "Nasi dengan berbagai lauk khas Bali seperti lawar, sate lilit, dan ayam suwir.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nasi_Campur_Bali.jpg",
     "harga": 28000
   },
   {
     "id": 44,
     "nama": "Sate Padang",
-    "kategori": "Main Course",
+    "deskripsi": "Sate khas Minang dengan saus kental berbumbu rempah dan cabai.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sate_Padang_Pariaman.jpg",
     "harga": 27000
   },
   {
     "id": 45,
     "nama": "Lontong Balap",
-    "kategori": "Snack",
+    "deskripsi": "Lontong dengan tauge, lentho, dan kuah gurih khas Surabaya.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lontong_balap_surabaya.jpg",
     "harga": 14000
   },
   {
     "id": 46,
     "nama": "Kue Lumpur",
-    "kategori": "Dessert",
+    "deskripsi": "Kue lembut dari kentang, santan, dan vanila dengan rasa manis legit.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kue_Lumpur_Surabaya.jpg",
     "harga": 9000
   },
   {
     "id": 47,
     "nama": "Es Dawet",
-    "kategori": "Minuman",
+    "deskripsi": "Minuman tradisional dari cendol hitam Banjarnegara dengan santan dan gula aren.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Es_dawet_ireng_banjarnegara.jpg",
     "harga": 12000
   },
   {
     "id": 48,
     "nama": "Wedang Jahe",
-    "kategori": "Minuman",
+    "deskripsi": "Minuman hangat dari rebusan jahe, gula merah, dan rempah pilihan.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wedang_jahe.jpg",
     "harga": 10000
   },
   {
     "id": 49,
     "nama": "Kolak Pisang",
-    "kategori": "Dessert",
+    "deskripsi": "Pisang rebus dalam kuah santan manis dengan gula merah dan daun pandan.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kolak_pisang.jpg",
     "harga": 12000
   },
   {
     "id": 50,
     "nama": "Es Campur",
-    "kategori": "Minuman",
+    "deskripsi": "Campuran buah, agar, dan sirup manis disajikan dengan es serut segar.",
     "gambar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Es_campur_jakarta.jpg",
     "harga": 13000
   }
