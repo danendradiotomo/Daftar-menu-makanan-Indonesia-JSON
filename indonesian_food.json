@@ -10,28 +10,28 @@
     "id": 2,
     "nama": "Rendang",
     "deskripsi": "Masakan daging sapi dimasak lama dengan santan dan rempah khas Minangkabau.",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rendang_daging_sapi_padang.JPG",
+    "gambar": "https://asset.kompas.com/crops/QsUYn6p5xK4DsivCrxa0_TXdjuk=/10x36:890x623/1200x800/data/photo/2023/03/25/641e5ef63dea4.jpg",
     "harga": 35000
   },
   {
     "id": 3,
     "nama": "Sate Ayam",
     "deskripsi": "Potongan daging ayam yang ditusuk dan dibakar, disajikan dengan saus kacang.",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sate_Ponorogo.jpg",
+    "gambar": "https://assets.promediateknologi.id/crop/65x428:1002x1434/750x500/webp/photo/2023/03/25/Screenshot_20230325-203938_Instagram-1915831717.jpg",
     "harga": 25000
   },
   {
     "id": 4,
     "nama": "Gado-Gado",
     "deskripsi": "Sayuran rebus dengan saus kacang, disajikan dengan lontong dan telur rebus.",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gado_gado_Jakarta.JPG",
+    "gambar": "https://asset.kompas.com/crops/tPVbCuffNjj7zC5TWENvHbUmrns=/0x0:4320x2880/1200x800/data/photo/2020/03/27/5e7d670354c30.jpg",
     "harga": 18000
   },
   {
     "id": 5,
     "nama": "Bakso",
     "deskripsi": "Bola daging sapi yang disajikan dalam kuah gurih dengan mi dan tahu.",
-    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bakso_malang.jpg",
+    "gambar": "https://static.promediateknologi.id/crop/56x680:1030x1469/0x0/webp/photo/p2/74/2025/04/22/Screenshot_20250422_130214-2658937143.jpg",
     "harga": 22000
   },
   {
